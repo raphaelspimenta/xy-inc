@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Lanchonete",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [27,12]
+        }
+    }
+    ,
+    {
+        "name": "Posto",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [31,18]
+        }
+    }
+    ,
+    {
+        "name": "Joalheria",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [15,12]
+        }
+    }
+    ,
+    {
+        "name": "Floricultura",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [19,21]
+        }
+    }
+    ,
+    {
+        "name": "Pub",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [12,8]
+        }
+    }
+    ,
+    {
+        "name": "Supermercado",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [23,6]
+        }
+    }
+    ,
+    {
+        "name": "Churrascaria",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [28,2]
+        }
+    }
+]
